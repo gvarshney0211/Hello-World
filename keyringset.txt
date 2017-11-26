@@ -1,0 +1,8 @@
+To reset your keyring.
+
+Go into your home folder.
+Press ctrl & h to show your hidden folders.
+Now look in your .gnome2/keyrings directory.
+Find the default.keyring file.
+Move that file to a different folder.
+Once done, reboot your computer.
