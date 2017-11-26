@@ -3,5 +3,6 @@
 public static void main(strings args[])
 {
   // this is how for loop works
-  // foreach
+  for(int i =0 ; i<10;i ++)
+    //SOP
 }
